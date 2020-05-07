@@ -12,7 +12,6 @@ My previous project manager portfolio built in 2018.
 * [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 * [Bulma](https://bulma.io/)
-* [Netlify](https://app.netlify.com/)
 
 ## Deploy Status Badge
 
