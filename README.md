@@ -19,5 +19,8 @@ My previous project manager portfolio built in 2018.
 
 ## Author
 
-**Enora Lecuyer** 
+Enora Lecuyer
 
+## License
+
+MIT License
