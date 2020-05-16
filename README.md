@@ -8,7 +8,7 @@ My previous project manager portfolio built in 2018.
 
 ## Built With
 
-* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [HTML4](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 * [Bulma](https://bulma.io/)
